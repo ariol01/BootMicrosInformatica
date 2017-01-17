@@ -4,6 +4,10 @@ header
 {
 	border:1px solid red;
 	}
+.btn-light:hover
+{
+	color:red;
+}
  .bg-primary
  {
 	 background-color:#FF1418;}
@@ -17,7 +21,7 @@ header
 }
 footer #to-top:hover
 {
-	background-color:#FF7072;
+	color:red;
 }
 .header
 {
